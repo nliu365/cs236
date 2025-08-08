@@ -1,0 +1,29 @@
+Subject: Interview Invitation - Software Engineer Position
+
+Dear Candidate,
+
+Thank you for your application for the Software Engineer position. We would like to invite you for an interview.
+
+Interview Details:
+Date: March 28, 2024
+Time: 10:00 AM - 11:30 AM
+Location: 123 Tech Street, Suite 500
+Format: In-person
+
+Interview Process:
+1. Technical Discussion (45 mins)
+2. Coding Challenge (30 mins)
+3. Team Discussion (15 mins)
+
+Please bring:
+- Government-issued ID
+- Portfolio of your work
+- Laptop (for coding challenge)
+
+Parking is available in the building's garage. Please check in at the reception desk 10 minutes before your scheduled time.
+
+If you need to reschedule, please contact us at careers@example.com.
+
+Best regards,
+HR Team
+Tech Innovations Inc. 

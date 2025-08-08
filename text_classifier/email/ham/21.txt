@@ -1,0 +1,36 @@
+Subject: Course Registration Confirmation - Spring 2024
+
+Dear Student,
+
+Thank you for registering for the following courses for Spring 2024 semester.
+
+Registration Details:
+Student ID: 12345678
+Term: Spring 2024
+Registration Date: March 1, 2024
+
+Courses Registered:
+1. CS 101: Introduction to Programming
+   - Section: 01
+   - Professor: Dr. Smith
+   - Schedule: Mon/Wed 10:00 AM - 11:30 AM
+   - Location: Science Building, Room 101
+
+2. MATH 201: Calculus II
+   - Section: 03
+   - Professor: Dr. Johnson
+   - Schedule: Tue/Thu 1:00 PM - 2:30 PM
+   - Location: Math Building, Room 205
+
+3. PHYS 101: Physics I
+   - Section: 02
+   - Professor: Dr. Chen
+   - Schedule: Fri 9:00 AM - 12:00 PM
+   - Location: Physics Lab, Room 301
+
+View your schedule and course materials at:
+https://studentportal.example.com/schedule
+
+Best regards,
+Registrar's Office
+University of Technology 

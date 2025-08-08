@@ -1,0 +1,32 @@
+Subject: Research Grant Application Received
+
+Dear Dr. Chen,
+
+We have received your application for the National Science Foundation Research Grant (NSF-2024-1234).
+
+Application Details:
+Project Title: "Quantum Computing Applications in Machine Learning"
+Grant Type: Standard Research Grant
+Requested Amount: $500,000
+Duration: 3 years
+
+Review Process:
+1. Initial Screening (2 weeks)
+2. Expert Review (4-6 weeks)
+3. Panel Review (2 weeks)
+4. Final Decision (2 weeks)
+
+You can track your application status at:
+https://grants.example.com/NSF-2024-1234
+
+Required Documents (if not already submitted):
+- Detailed Budget Plan
+- Research Timeline
+- Team Qualifications
+- Institutional Support Letter
+
+For any questions, please contact the grants office at grants@nsf.example.com.
+
+Best regards,
+Grants Office
+National Science Foundation 

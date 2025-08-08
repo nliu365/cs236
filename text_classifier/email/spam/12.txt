@@ -1,0 +1,22 @@
+Subject: URGENT: Unusual Activity Detected on Your Bank Account
+
+Dear Valued Customer,
+
+We have detected unusual activity on your bank account. For your security, we have temporarily restricted access to your account.
+
+Click here to verify your account:
+http://bank-security-verify.com/secure-login
+
+Recent transactions flagged:
+1. $2,500.00 - International Transfer
+2. $1,200.00 - Online Purchase
+3. $800.00 - ATM Withdrawal
+
+If these transactions are not authorized by you, please contact our security team immediately:
+1-800-555-0123
+
+Your account will be permanently locked if not verified within 24 hours.
+
+Best regards,
+Security Department
+Global Bank 

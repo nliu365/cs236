@@ -1,0 +1,24 @@
+Subject: URGENT: Your Computer is Infected!
+
+Dear Windows User,
+
+Our security system has detected multiple viruses on your computer. Your personal data is at risk!
+
+Click here to scan your computer now:
+http://windows-security-scan.com/scan-now
+
+Detected threats:
+- Trojan Horse (High Risk)
+- Keylogger (Critical)
+- Data Stealer (High Risk)
+
+Your computer needs immediate attention. Our certified technicians are available 24/7 to help you remove these threats.
+
+Call now: 1-800-555-0123
+Or visit: http://windows-security-scan.com/support
+
+Don't wait until it's too late!
+
+Best regards,
+Windows Security Team
+Microsoft Certified Support 

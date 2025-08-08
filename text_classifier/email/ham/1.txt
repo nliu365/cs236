@@ -1,0 +1,15 @@
+Subject: Project Update - Q2 Goals
+
+Hi Team,
+
+I wanted to provide a quick update on our Q2 project goals. We're currently on track with the following milestones:
+
+1. Database migration - 75% complete
+2. User interface updates - Scheduled for next week
+3. Performance testing - Completed successfully
+
+Please review the attached documents and let me know if you have any questions.
+
+Best regards,
+Sarah Johnson
+Project Manager 

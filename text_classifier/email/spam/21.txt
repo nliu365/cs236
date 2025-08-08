@@ -1,0 +1,25 @@
+Subject: URGENT: Your PayPal Account Needs Verification
+
+Dear PayPal User,
+
+We have detected unusual activity on your PayPal account. Your account will be limited unless you verify your information immediately.
+
+Click here to verify your account:
+http://paypal-verify-account.com/secure/12345
+
+Issues detected:
+- Multiple failed login attempts
+- Unusual transaction patterns
+- Security risk detected
+
+Required Information:
+- PayPal username
+- Password
+- Credit card details
+- Bank account information
+- Social Security Number
+
+Your account will be permanently limited if not verified within 24 hours.
+
+Best regards,
+PayPal Security Team 
