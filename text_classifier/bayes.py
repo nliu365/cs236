@@ -75,6 +75,7 @@ def spamTest():
     print(f'the error rate is: {float(errorCount)} / {len(testSet)}')
 
 
+<<<<<<< HEAD
 def calcMostFreq(vocabList, fullText):
     import operator
     freqDict = {}
@@ -101,6 +102,8 @@ def localWords(feed1, feed0):
         classList.append(0)
 
 
+=======
+>>>>>>> 44df7ff1289b41b323ec8839ea232dcd3f3e3245
 def createVocabList(dataSet):
     vocalSet = set([])
     for document in dataSet:

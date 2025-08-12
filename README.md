@@ -82,7 +82,7 @@ computation but may not hold perfectly (e.g., “free” and “win” often co-
 
 
 Summary of Key Differences
-
+```
 Aspect	Step-by-Step Example(naive_bayes_classifier.py)	Python Code Implementation(text_classifier/bayes.py)
 Vocabulary	Fixed (4 words)	Dynamic (built from dataset, 32 words)
 Smoothing	Laplace smoothing applied	No smoothing, risking zero probabilities
@@ -92,3 +92,4 @@ Prediction	Explicitly shown for two test emails	Not implemented in provided code
 Normalization	Document-based (per class + vocab size)	Word frequency-based (total word count per class)
 Scalability	Low, manual process	High, automated and adaptable
 Flexibility	Limited by fixed vocabulary	High, dynamic vocabulary generation
+```
