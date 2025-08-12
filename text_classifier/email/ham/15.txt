@@ -1,0 +1,36 @@
+Subject: New Software Release - Version 3.2.0
+
+Dear Valued Customer,
+
+We're excited to announce the release of our software version 3.2.0. This update includes significant improvements and new features.
+
+New Features:
+1. Enhanced Security
+   - Two-factor authentication
+   - Advanced encryption
+   - Improved password policies
+
+2. Performance Improvements
+   - 40% faster processing
+   - Reduced memory usage
+   - Optimized database queries
+
+3. New Functionality
+   - Advanced reporting tools
+   - Custom dashboard widgets
+   - API enhancements
+
+Download the update:
+https://downloads.example.com/v3.2.0
+
+System Requirements:
+- Windows 10/11 or macOS 10.15+
+- 8GB RAM minimum
+- 1GB free disk space
+
+For detailed release notes and documentation:
+https://docs.example.com/v3.2.0
+
+Best regards,
+Product Team
+Example Software 

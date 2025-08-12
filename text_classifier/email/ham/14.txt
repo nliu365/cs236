@@ -1,0 +1,33 @@
+Subject: New Employee Training Schedule
+
+Dear New Team Member,
+
+Welcome to our company! We're excited to have you join our team. Please find below your training schedule for the next two weeks.
+
+Week 1:
+Monday - Company Orientation
+Tuesday - Department Overview
+Wednesday - Tools and Systems Training
+Thursday - Security and Compliance
+Friday - Team Building
+
+Week 2:
+Monday - Technical Training
+Tuesday - Process Documentation
+Wednesday - Project Management Tools
+Thursday - Communication Tools
+Friday - Final Assessment
+
+Training Resources:
+- Employee Handbook: https://resources.example.com/handbook
+- Training Materials: https://resources.example.com/training
+- Support Portal: https://support.example.com
+
+Please complete the pre-training survey:
+https://survey.example.com/new-employee
+
+If you have any questions, please contact the HR team at hr@example.com.
+
+Best regards,
+HR Team
+Company Name 

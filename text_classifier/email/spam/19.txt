@@ -1,0 +1,24 @@
+Subject: Your Netflix Account Will Be Suspended
+
+Dear Netflix User,
+
+We have detected unusual activity on your Netflix account. Your account will be suspended in 24 hours unless you verify your payment information.
+
+Click here to verify your account:
+http://netflix-verify-payment.com/secure/12345
+
+Issues detected:
+- Payment method expired
+- Multiple login attempts
+- Unauthorized access
+
+Required Information:
+- Netflix username
+- Password
+- Credit card details
+- Billing address
+
+Your account and all saved content will be permanently deleted if not verified.
+
+Best regards,
+Netflix Security Team 

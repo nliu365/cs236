@@ -1,0 +1,26 @@
+Subject: Paper Submission Confirmation - Machine Learning Conference
+
+Dear Dr. Johnson,
+
+Thank you for submitting your paper "Advanced Neural Network Architectures for Natural Language Processing" to the International Conference on Machine Learning 2024.
+
+Submission Details:
+Paper ID: ML2024-1234
+Title: Advanced Neural Network Architectures for Natural Language Processing
+Authors: Dr. Johnson, Dr. Smith, Dr. Chen
+Submission Date: March 15, 2024
+
+Next Steps:
+1. Peer Review Process (4-6 weeks)
+2. Author Notification: May 1, 2024
+3. Camera-ready Submission: June 1, 2024
+4. Conference Dates: July 15-18, 2024
+
+You can track your submission status at:
+https://conference.example.com/submissions/ML2024-1234
+
+For any questions, please contact the program committee at papers@mlconference2024.com.
+
+Best regards,
+Program Committee
+International Conference on Machine Learning 2024 

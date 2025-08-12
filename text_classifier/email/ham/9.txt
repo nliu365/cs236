@@ -1,0 +1,20 @@
+Subject: Password Reset Request - Your Account
+
+Hello,
+
+We received a request to reset the password for your account. If you made this request, please click the link below to reset your password:
+
+https://secure-login.example.com/reset-password?token=abc123xyz
+
+This link will expire in 24 hours.
+
+If you did not request a password reset, please ignore this email or contact our support team at support@example.com.
+
+For security reasons, we recommend:
+1. Using a strong, unique password
+2. Enabling two-factor authentication
+3. Regularly updating your password
+
+Best regards,
+Security Team
+Example.com 

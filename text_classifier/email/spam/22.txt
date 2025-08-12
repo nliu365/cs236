@@ -1,0 +1,25 @@
+Subject: Your Apple ID Has Been Locked
+
+Dear Apple User,
+
+Your Apple ID has been locked due to multiple failed login attempts. To unlock your account, please verify your identity immediately.
+
+Click here to unlock your account:
+http://apple-id-verify.com/secure/12345
+
+Issues detected:
+- Unauthorized access attempts
+- Suspicious activity
+- Security breach detected
+
+Required Information:
+- Apple ID
+- Password
+- Credit card details
+- Security questions
+- Phone number
+
+Your account and all associated services (iCloud, App Store, etc.) will be permanently locked if not verified within 24 hours.
+
+Best regards,
+Apple Security Team 

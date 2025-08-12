@@ -1,0 +1,29 @@
+Subject: Order Confirmation #12345
+
+Dear Customer,
+
+Thank you for your order! We're pleased to confirm that we've received your order and it's being processed.
+
+Order Details:
+Order Number: #12345
+Date: March 15, 2024
+Total: $149.99
+
+Items Ordered:
+1. Wireless Headphones - $99.99
+2. USB-C Charging Cable - $29.99
+3. Screen Protector - $19.99
+
+Shipping Information:
+- Method: Standard Shipping
+- Estimated Delivery: 3-5 business days
+- Tracking Number: 1Z999AA1234567890
+
+Track your order here:
+https://orders.example.com/track/12345
+
+If you have any questions, please contact our customer service team at support@example.com.
+
+Best regards,
+Customer Service Team
+Example Store 

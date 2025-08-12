@@ -1,0 +1,25 @@
+Subject: Software Update Available - Version 2.1.0
+
+Hello User,
+
+A new version of our software (v2.1.0) is now available for download. This update includes several important improvements and bug fixes.
+
+New Features:
+- Enhanced security features
+- Improved performance
+- New user interface elements
+- Bug fixes for reported issues
+
+Download the update from our official website:
+https://software-updates.example.com/v2.1.0
+
+System Requirements:
+- Windows 10/11 or macOS 10.15+
+- 4GB RAM minimum
+- 500MB free disk space
+
+For detailed release notes, visit:
+https://software-updates.example.com/release-notes
+
+Best regards,
+Software Development Team 

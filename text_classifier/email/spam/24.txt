@@ -1,0 +1,21 @@
+Subject: Your Package Delivery Failed - Action Required
+
+Dear Customer,
+
+We attempted to deliver your package but were unable to complete the delivery.
+
+Tracking Number: 1Z999AA1234567890
+Delivery Date: March 15, 2024
+Status: Failed Delivery
+
+Click here to reschedule delivery:
+http://package-delivery-reschedule.com/12345
+
+Or call our delivery center:
+1-800-555-0123
+
+Your package will be returned to sender if not claimed within 48 hours.
+
+Best regards,
+Delivery Support Team
+Global Shipping Services 
